@@ -1,3 +1,3 @@
 # maven-project
 
-This is our first commit to test if automatic build trigger works fine.
+This is a simple java project which will be built using maven and deployed on tomcat server running on seperate EC2 VM.
